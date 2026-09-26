@@ -475,7 +475,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/15.JPEG"
+    "image": "assets/portfolio_images/post_15.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 2",
@@ -483,7 +483,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/16.JPEG"
+    "image": "assets/portfolio_images/post_16.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 3",
@@ -491,7 +491,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/17.JPEG"
+    "image": "assets/portfolio_images/post_17.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 4",
@@ -499,7 +499,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/18.JPEG"
+    "image": "assets/portfolio_images/post_18.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 5",
@@ -507,7 +507,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/19.JPEG"
+    "image": "assets/portfolio_images/post_19.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 6",
@@ -515,7 +515,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/20.JPEG",
+    "image": "assets/portfolio_images/post_20.jpeg",
     "bestWork": true
   },
   {
@@ -524,7 +524,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/21.JPEG"
+    "image": "assets/portfolio_images/post_21.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 8",
@@ -532,7 +532,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/22.JPEG",
+    "image": "assets/portfolio_images/post_22.jpeg",
     "bestWork": true
   },
   {
@@ -541,7 +541,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/23.JPEG"
+    "image": "assets/portfolio_images/post_23.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 10",
@@ -549,7 +549,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/24.JPEG"
+    "image": "assets/portfolio_images/post_24.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 11",
@@ -557,7 +557,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/25.JPEG"
+    "image": "assets/portfolio_images/post_25.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 12",
@@ -565,7 +565,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/26.JPEG"
+    "image": "assets/portfolio_images/post_26.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 13",
@@ -573,7 +573,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/27.JPEG"
+    "image": "assets/portfolio_images/post_27.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 14",
@@ -581,7 +581,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/28.JPEG"
+    "image": "assets/portfolio_images/post_28.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 15",
@@ -589,7 +589,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/29.JPEG"
+    "image": "assets/portfolio_images/post_29.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 16",
@@ -597,7 +597,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/30.JPEG"
+    "image": "assets/portfolio_images/post_30.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 17",
@@ -605,7 +605,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/31.JPEG"
+    "image": "assets/portfolio_images/post_31.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 18",
@@ -613,7 +613,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/32.JPEG"
+    "image": "assets/portfolio_images/post_32.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 19",
@@ -621,7 +621,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/33.JPEG"
+    "image": "assets/portfolio_images/post_33.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 20",
@@ -629,7 +629,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/34.JPEG",
+    "image": "assets/portfolio_images/post_34.jpeg",
     "bestWork": true
   },
   {
@@ -638,7 +638,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/35.JPEG",
+    "image": "assets/portfolio_images/post_35.jpeg",
     "bestWork": true
   },
   {
@@ -647,7 +647,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/36.JPEG"
+    "image": "assets/portfolio_images/post_36.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 23",
@@ -655,7 +655,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/37.JPEG"
+    "image": "assets/portfolio_images/post_37.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 24",
@@ -663,7 +663,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/38.JPEG"
+    "image": "assets/portfolio_images/post_38.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 25",
@@ -671,7 +671,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/39.JPEG"
+    "image": "assets/portfolio_images/post_39.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 26",
@@ -679,7 +679,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/40.JPEG"
+    "image": "assets/portfolio_images/post_40.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 27",
@@ -687,7 +687,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/41.JPEG"
+    "image": "assets/portfolio_images/post_41.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 28",
@@ -695,7 +695,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/42.JPEG"
+    "image": "assets/portfolio_images/post_42.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 29",
@@ -703,7 +703,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/43.JPEG"
+    "image": "assets/portfolio_images/post_43.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 30",
@@ -711,7 +711,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/44.JPEG"
+    "image": "assets/portfolio_images/post_44.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 31",
@@ -719,7 +719,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/45.JPEG"
+    "image": "assets/portfolio_images/post_45.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 32",
@@ -727,7 +727,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/46.JPEG"
+    "image": "assets/portfolio_images/post_46.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 33",
@@ -735,7 +735,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/47.JPEG"
+    "image": "assets/portfolio_images/post_47.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 34",
@@ -743,7 +743,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/48.JPEG"
+    "image": "assets/portfolio_images/post_48.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 35",
@@ -751,7 +751,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/49.JPEG"
+    "image": "assets/portfolio_images/post_49.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 36",
@@ -759,7 +759,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/50.JPEG"
+    "image": "assets/portfolio_images/post_50.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 37",
@@ -767,7 +767,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/51.JPEG"
+    "image": "assets/portfolio_images/post_51.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 38",
@@ -775,7 +775,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/52.JPEG"
+    "image": "assets/portfolio_images/post_52.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 39",
@@ -783,7 +783,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/53.JPEG"
+    "image": "assets/portfolio_images/post_53.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 40",
@@ -791,7 +791,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/54.JPEG"
+    "image": "assets/portfolio_images/post_54.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 41",
@@ -799,7 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/55.JPEG"
+    "image": "assets/portfolio_images/post_55.jpeg"
   },
   {
     "title": "Social Media & Graphic Post 42",
@@ -807,7 +807,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Posts",
     "url": "#",
     "desc": "Engaging graphic design and social media visual content.",
-    "image": "assets/portfolio_images/56.JPEG"
+    "image": "assets/portfolio_images/post_56.jpeg"
   },
   {
     "title": "Banner Design 1",
@@ -815,7 +815,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/57.JPEG"
+    "image": "assets/portfolio_images/banner_57.jpeg"
   },
   {
     "title": "Banner Design 2",
@@ -823,7 +823,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/58.JPEG"
+    "image": "assets/portfolio_images/banner_58.jpeg"
   },
   {
     "title": "Banner Design 3",
@@ -831,7 +831,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/59.JPEG"
+    "image": "assets/portfolio_images/banner_59.jpeg"
   },
   {
     "title": "Banner Design 4",
@@ -839,7 +839,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/60.JPEG"
+    "image": "assets/portfolio_images/banner_60.jpeg"
   },
   {
     "title": "Banner Design 5",
@@ -847,7 +847,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/61.JPEG"
+    "image": "assets/portfolio_images/banner_61.jpeg"
   },
   {
     "title": "Banner Design 6",
@@ -855,7 +855,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/62.JPEG"
+    "image": "assets/portfolio_images/banner_62.jpeg"
   },
   {
     "title": "Banner Design 7",
@@ -863,7 +863,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/63.JPEG",
+    "image": "assets/portfolio_images/banner_63.jpeg",
     "bestWork": true
   },
   {
@@ -872,7 +872,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/64.JPEG"
+    "image": "assets/portfolio_images/banner_64.jpeg"
   },
   {
     "title": "Banner Design 9",
@@ -880,7 +880,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/65.JPEG"
+    "image": "assets/portfolio_images/banner_65.jpeg"
   },
   {
     "title": "Banner Design 10",
@@ -888,7 +888,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/66.JPEG"
+    "image": "assets/portfolio_images/banner_66.jpeg"
   },
   {
     "title": "Banner Design 11",
@@ -896,7 +896,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/67.JPEG"
+    "image": "assets/portfolio_images/banner_67.jpeg"
   },
   {
     "title": "Banner Design 12",
@@ -904,7 +904,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/68.JPEG",
+    "image": "assets/portfolio_images/banner_68.jpeg",
     "bestWork": true
   },
   {
@@ -913,7 +913,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/69.JPEG"
+    "image": "assets/portfolio_images/banner_69.jpeg"
   },
   {
     "title": "Banner Design 14",
@@ -921,7 +921,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "categoryLabel": "Banners",
     "url": "#",
     "desc": "High-converting digital banner designed for ad campaigns.",
-    "image": "assets/portfolio_images/70.JPEG"
+    "image": "assets/portfolio_images/banner_70.jpeg"
   }
 ];
 
